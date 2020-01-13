@@ -1,0 +1,15 @@
+#     Node.js     #
+###################
+node_modules
+package-lock.json
+package.json
+yarn.lock
+*.log
+
+
+#       OS        #
+###################
+.idea
+.DS_Store
+Thumbs.db
+*.swp
