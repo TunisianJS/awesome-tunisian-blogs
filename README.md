@@ -1,5 +1,9 @@
 
----
+# Awesome Tunisia Blogs 📕 .. 
+--- 
+
+### We hope to have +100 blogs written by Tunisians 🇹🇳.
+
 ```
    ___                                                      _ _          _
   |_  |                                                    (_) |        | |
@@ -10,11 +14,6 @@
                                                                    __/ |
                                                                   |___/
 ```
-# Awesome Tunisia Blogs 📕 .. 
---- 
-
-### We hope to have +100 blogs written by Tunisians 🇹🇳.
-
 
 >
 > Note ⚠️: 
