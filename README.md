@@ -21,10 +21,13 @@
 >   - Please make sure, your blog written in markdown format `blog_name.md` .. 
 >
 
-
+<!--
 ## Description 📋 : 
 
 [ [WIP - 🚧] Description Here .. ]
+-->
+## Contribution 📋: 
+  - [Check this guide 🌈](https://www.youtube.com/watch?v=mNTZ5WDiiyo&list=PLtiMA4YjxsW5bLOW7oJVzTNFbZ9jEorK6)
 
 
 ## Blogs Layout 🗺 :
