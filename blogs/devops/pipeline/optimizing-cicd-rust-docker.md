@@ -1,0 +1,2 @@
+
+**Hatem Ben Tayeb**: [Optimizing CI/CD for RUST projects by optimizing build time and docker image size ](https://medium.com/@hatemtayeb2/optimizing-ci-cd-pipeline-for-rust-projects-gitlab-docker-98df64ae3bc4).
